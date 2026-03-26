@@ -1,4 +1,4 @@
-# SQL Master Study Guide 📊
+# SQL Master Study Guide 
 This repository contains a deep dive into MySQL using the **World** database. 
 
 ### What's Inside:
